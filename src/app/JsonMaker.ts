@@ -36,7 +36,7 @@ export class JsonMaker{
     }
 
     public makeCash(cashCount) {
-        return JSON.stringify({type:"cash", count:cashCount})
+        return JSON.stringify({type:"coin", count:cashCount})
     }
 
     public makeNpc(npc) {

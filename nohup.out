@@ -1,0 +1,175 @@
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://localhost:4200/webpack-dev-server/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from /
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to //index.html
+[34mℹ[39m [90m｢wdm｣[39m: wait until bundle finished: /
+[34mℹ[39m [90m｢wdm｣[39m: wait until bundle finished: /runtime.js
+[34mℹ[39m [90m｢wdm｣[39m: wait until bundle finished: /main.js
+[34mℹ[39m [90m｢wdm｣[39m: wait until bundle finished: /styles.js
+[34mℹ[39m [90m｢wdm｣[39m: wait until bundle finished: /assets/launchCenter.png
+[34mℹ[39m [90m｢wdm｣[39m: wait until bundle finished: /polyfills.js
+
+chunk {main} main.js, main.js.map (main) 41.7 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 264 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 6.15 kB [entry] [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 9.73 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 3.81 MB [initial] [rendered]
+Date: 2020-01-13T03:34:28.327Z - Hash: 42aea198e8e4c785f951 - Time: 6495ms
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2020-01-13T03:49:31.719Z - Hash: 42aea198e8e4c785f951
+5 unchanged chunks
+
+Time: 168ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2020-01-13T03:49:33.901Z - Hash: 42aea198e8e4c785f951
+5 unchanged chunks
+
+Time: 114ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2020-01-13T03:49:46.670Z - Hash: 42aea198e8e4c785f951
+5 unchanged chunks
+
+Time: 131ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2020-01-13T03:50:23.054Z - Hash: 461421dff73887d2ea34
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 41.8 kB [initial] [rendered]
+Time: 130ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://localhost:4200/webpack-dev-server/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from /
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to //index.html
+
+chunk {main} main.js, main.js.map (main) 41.8 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 264 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 6.15 kB [entry] [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 9.73 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 3.81 MB [initial] [rendered]
+Date: 2020-01-13T08:12:03.356Z - Hash: 461421dff73887d2ea34 - Time: 7987ms
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+An unhandled exception occurred: Port 4200 is already in use. Use '--port' to specify a different port.
+See "/private/var/folders/2x/mp6tm41x5vs1trdfqvt87w9h0000gn/T/ng-QmHyjI/angular-errors.log" for further details.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2020-01-13T11:25:40.734Z - Hash: a5b6ec9e2002cc2a6990
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 41.8 kB [initial] [rendered]
+Time: 251ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+An unhandled exception occurred: listen EADDRNOTAVAIL: address not available 192.168.0.75:4200
+See "/private/var/folders/2x/mp6tm41x5vs1trdfqvt87w9h0000gn/T/ng-vU7iT4/angular-errors.log" for further details.
+An unhandled exception occurred: listen EADDRNOTAVAIL: address not available 192.168.0.75:4200
+See "/private/var/folders/2x/mp6tm41x5vs1trdfqvt87w9h0000gn/T/ng-CXK1DX/angular-errors.log" for further details.
+An unhandled exception occurred: listen EADDRNOTAVAIL: address not available 192.168.0.75:4200
+See "/private/var/folders/2x/mp6tm41x5vs1trdfqvt87w9h0000gn/T/ng-nJlHDt/angular-errors.log" for further details.
+An unhandled exception occurred: listen EADDRNOTAVAIL: address not available 192.168.0.75:4200
+See "/private/var/folders/2x/mp6tm41x5vs1trdfqvt87w9h0000gn/T/ng-IsNlZS/angular-errors.log" for further details.
+An unhandled exception occurred: listen EADDRNOTAVAIL: address not available 192.168.0.75:4200
+See "/private/var/folders/2x/mp6tm41x5vs1trdfqvt87w9h0000gn/T/ng-8MArye/angular-errors.log" for further details.
+An unhandled exception occurred: listen EADDRNOTAVAIL: address not available 192.168.0.75:4200
+See "/private/var/folders/2x/mp6tm41x5vs1trdfqvt87w9h0000gn/T/ng-VtghZr/angular-errors.log" for further details.
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://localhost:4200/webpack-dev-server/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from /
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to //index.html
+
+chunk {main} main.js, main.js.map (main) 41.8 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 264 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 6.15 kB [entry] [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 9.73 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 3.81 MB [initial] [rendered]
+Date: 2020-01-20T04:38:24.932Z - Hash: a5b6ec9e2002cc2a6990 - Time: 8499ms
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+An unhandled exception occurred: Port 4200 is already in use. Use '--port' to specify a different port.
+See "/private/var/folders/2x/mp6tm41x5vs1trdfqvt87w9h0000gn/T/ng-epSGBK/angular-errors.log" for further details.
+An unhandled exception occurred: listen EADDRNOTAVAIL: address not available 192.168.0.75:4200
+See "/private/var/folders/2x/mp6tm41x5vs1trdfqvt87w9h0000gn/T/ng-9lM5H6/angular-errors.log" for further details.
+An unhandled exception occurred: listen EADDRNOTAVAIL: address not available 192.168.0.75:4200
+See "/private/var/folders/2x/mp6tm41x5vs1trdfqvt87w9h0000gn/T/ng-qKsJqi/angular-errors.log" for further details.
+An unhandled exception occurred: listen EADDRNOTAVAIL: address not available 192.168.0.75:4200
+See "/private/var/folders/2x/mp6tm41x5vs1trdfqvt87w9h0000gn/T/ng-Tj3OdE/angular-errors.log" for further details.
+An unhandled exception occurred: listen EADDRNOTAVAIL: address not available 192.168.0.75:4200
+See "/private/var/folders/2x/mp6tm41x5vs1trdfqvt87w9h0000gn/T/ng-dQXNzx/angular-errors.log" for further details.
+An unhandled exception occurred: listen EADDRNOTAVAIL: address not available 192.168.0.75:4200
+See "/private/var/folders/2x/mp6tm41x5vs1trdfqvt87w9h0000gn/T/ng-GQBNYi/angular-errors.log" for further details.
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://localhost:4200/webpack-dev-server/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from /
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to //index.html
+
+chunk {main} main.js, main.js.map (main) 41.8 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 264 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 6.15 kB [entry] [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 9.73 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 3.81 MB [initial] [rendered]
+Date: 2020-02-12T02:21:34.863Z - Hash: a5b6ec9e2002cc2a6990 - Time: 16979ms
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://localhost:4200/webpack-dev-server/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from /
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to //index.html
+
+chunk {main} main.js, main.js.map (main) 41.8 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 264 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 6.15 kB [entry] [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 9.73 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 3.81 MB [initial] [rendered]
+Date: 2020-02-12T03:11:33.216Z - Hash: a5b6ec9e2002cc2a6990 - Time: 11843ms
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://localhost:4200/webpack-dev-server/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from /
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to //index.html
+
+chunk {main} main.js, main.js.map (main) 41.8 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 264 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 6.15 kB [entry] [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 9.73 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 3.81 MB [initial] [rendered]
+Date: 2020-02-12T07:01:40.028Z - Hash: a5b6ec9e2002cc2a6990 - Time: 18210ms
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://localhost:4200/webpack-dev-server/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from /
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to //index.html
+
+chunk {main} main.js, main.js.map (main) 41.8 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 264 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 6.15 kB [entry] [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 9.73 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 3.81 MB [initial] [rendered]
+Date: 2020-02-12T07:03:50.204Z - Hash: a5b6ec9e2002cc2a6990 - Time: 9212ms
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://localhost:4200/webpack-dev-server/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from /
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to //index.html
+
+chunk {main} main.js, main.js.map (main) 41.8 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 264 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 6.15 kB [entry] [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 9.73 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 3.81 MB [initial] [rendered]
+Date: 2020-02-12T08:34:30.357Z - Hash: a5b6ec9e2002cc2a6990 - Time: 15481ms
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://localhost:4200/webpack-dev-server/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from /
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to //index.html
+
+chunk {main} main.js, main.js.map (main) 41.8 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 264 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 6.15 kB [entry] [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 9.73 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 3.81 MB [initial] [rendered]
+Date: 2020-02-12T09:27:10.644Z - Hash: a5b6ec9e2002cc2a6990 - Time: 18866ms
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
